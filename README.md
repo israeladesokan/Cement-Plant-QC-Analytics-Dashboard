@@ -113,18 +113,6 @@ Key transformations performed:
 
 ---
 
-## Skills Demonstrated
-
-- Industrial domain knowledge (cement & concrete QC)
-- Data cleaning and validation
-- KPI modeling and performance tracking
-- Business storytelling through dashboards
-- Root cause exploration using scatter analysis
-- DAX measure creation
-- Executive-level report structuring
-
----
-
 ## Project Impact Summary
 
 This project demonstrates the ability to:
