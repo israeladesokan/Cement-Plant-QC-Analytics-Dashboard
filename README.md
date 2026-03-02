@@ -1,4 +1,4 @@
-# 📊 Cement Plant QC Analytics Dashboard  
+# Cement Plant QC Analytics Dashboard  
 ### End-to-End Data & Business Intelligence Project (Python + Power BI)
 
 <img width="1128" height="638" alt="Page 1" src="https://github.com/user-attachments/assets/849fef54-1852-4760-9608-8a0c1ff10fad" />
