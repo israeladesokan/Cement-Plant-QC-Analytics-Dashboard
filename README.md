@@ -6,7 +6,7 @@
 
 ---
 
-## 🔎 Project Overview
+## Project Overview
 
 This project simulates a **Quality Control (QC) analytics system** for a ready-mix concrete batching plant.
 
@@ -22,7 +22,7 @@ The dataset was synthetically generated to mimic realistic plant production cond
 
 ---
 
-## 🏭 Business Problem
+## Business Problem
 
 In ready-mix concrete operations, failure to meet target compressive strength can result in:
 
@@ -41,7 +41,7 @@ Plant managers require a centralized dashboard to:
 
 ---
 
-## 🛠 Tools & Technologies Used
+## Tools & Technologies Used
 
 - **Python (Pandas, NumPy)** 
 - **Jupyter Notebook (Anaconda)** 
